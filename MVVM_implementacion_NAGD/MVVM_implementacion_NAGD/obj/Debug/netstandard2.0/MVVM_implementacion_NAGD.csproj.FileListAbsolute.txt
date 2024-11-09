@@ -1,0 +1,16 @@
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\MVVM_implementacion_NAGD.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\MVVM_implementacion_NAGD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\Vista\pagina1.xaml.g.cs
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\MVVM_implementacion_NAGD.AssemblyInfoInputs.cache
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\MVVM_implementacion_NAGD.AssemblyInfo.cs
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\MVVM_implementacion_NAGD.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\MVVM_implementacion_NAGD.dll
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\refint\MVVM_implementacion_NAGD.dll
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\MVVM_implementacion_NAGD.pdb
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\bin\Debug\netstandard2.0\MVVM_implementacion_NAGD.deps.json
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\bin\Debug\netstandard2.0\MVVM_implementacion_NAGD.dll
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\bin\Debug\netstandard2.0\ref\MVVM_implementacion_NAGD.dll
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\bin\Debug\netstandard2.0\MVVM_implementacion_NAGD.pdb
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicol\Downloads\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\MVVM_implementacion_NAGD\obj\Debug\netstandard2.0\Vista\Pagina2.xaml.g.cs
